@@ -1,0 +1,11 @@
+number=[1,15,3,10,5,20,30]
+#print(number.count(4))
+#print(number)
+#number.sort()
+print(sorted(number))
+print(number.sort())
+print(number)
+#print(number.clear())
+print(number)
+n=number.copy()
+print(n)
